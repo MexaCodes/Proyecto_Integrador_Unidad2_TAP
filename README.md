@@ -1,5 +1,5 @@
 
-# Documentación Técnica: Aplicación Místico Horizonte
+# Documentación Técnica: Aplicación Místico Tech
 ## Introducción
 El presente documento detalla la implementación de una interfaz de usuario para una tienda tecnológica utilizando el framework Flet. El proyecto se enfoca en la modularización de componentes mediante el uso de clases personalizadas, la gestión de estados para un carrito de compras y la implementación de un diseño responsivo que se adapta a diferentes resoluciones de pantalla.
 
